@@ -2,6 +2,8 @@
 
 # Dependencies
 /node_modules
+shareme_backend/node_modules
+shareme_frontend/node_modules
 /.pnp
 .pnp.js
 
